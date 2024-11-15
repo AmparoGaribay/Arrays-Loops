@@ -1,0 +1,26 @@
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.form-label{
+    margin-right: 25px;
+    font-weight: bolder;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    margin: 10px;
+}
+.cssBtn{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin: 25px;
+}
